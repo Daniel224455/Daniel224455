@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Daniel. 👋
   
   - I’m currently working on [Mu-Qcom-Venus-Vayu](https://github.com/Daniel224455/Mu-Qcom-Venus-Mi11), Which is a Mu-Qcom port for the Poco X3 Pro and the Mi 11.
   - How to reach me : [Daniel6745 (Telegram)](https://t.me/Daniel6745) or [@dwxtemp (Discord)](https://discordapp.com/users/942462337158352928)
   - Pronouns : He/Him
   - Fun Fact : I have too many computers (probably around 40)
   - I'm currently learning on how to port UEFI or Project Mu to Phones equipped with a Snapdragon SoC.
-
-
+    
 <!--
 **Daniel224455/Daniel224455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

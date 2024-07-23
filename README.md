@@ -4,8 +4,9 @@
   - How to reach me : you dont 😉
   - Pronouns : He/Him
   - Fun Fact : I have too many computers (probably around 40)
-  - I'm currently learning on how to port Project Mu (Mu-Qcom) to Phones.
-    
+  - I'm currently learning on how to port Project Mu (Mu-Qcom) to Phones. <br>
+![](https://komarev.com/ghpvc/?username=Daniel224455)
+
 <!--
 **Daniel224455/Daniel224455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

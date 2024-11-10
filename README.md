@@ -1,10 +1,8 @@
 ### Hi there, I'm Daniel. 👋
   
-  - I’m currently working on [Mu-Qcom-Venus-Vayu](https://github.com/Daniel224455/Mu-Qcom-Venus-Mi11)
-  - How to reach me : you dont 😉
   - Pronouns : He/Him
   - Fun Fact : I have too many computers (probably around 40)
-  - I'm currently learning on how to port Project Mu (Mu-Qcom) to Phones. <br>
+  - "UEFI dev" (??) <br>
 ![](https://komarev.com/ghpvc/?username=Daniel224455)
 
 <!--

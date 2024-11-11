@@ -2,7 +2,7 @@
   
   - Pronouns : He/Him
   - Fun Fact : I have too many computers (probably around 40)
-  - "UEFI dev" (??) <br>
+  - UEFI dev <br>
 ![](https://komarev.com/ghpvc/?username=Daniel224455)
 
 <!--

@@ -1,5 +1,4 @@
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel224455)](https://github.com/anuraghazra/github-readme-stats)
-
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel224455&show_icons=true&theme=radical)
 ### Hi there, I'm Daniel. 👋
   
   - Pronouns : He/Him

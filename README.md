@@ -3,7 +3,7 @@
   - Pronouns : He/Him
   - Fun Fact : I have too many computers (probably around 40)
   - UEFI dev <br>
-  - To whoever was spamming the view counter my profile, fuck you
+![](https://komarev.com/ghpvc/?username=Daniel224455)
 <!--
 **Daniel224455/Daniel224455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

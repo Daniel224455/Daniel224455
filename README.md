@@ -1,7 +1,6 @@
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel224455&show_icons=true&theme=radical)
 ### Hi there, I'm Daniel. 👋
   
-  - Pronouns : He/Him
   - Fun Fact : I have too many computers (probably around 40)
   - UEFI dev <br>
 
